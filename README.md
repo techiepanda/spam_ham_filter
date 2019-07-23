@@ -8,4 +8,4 @@ Python command to run the code:
 > python spam_ham_filter.py -f1 [training data] -f2 [testing data] -o [output file]
 
 # Team
-[Renu Rani](https://github.com/techiepanda), [Anurag Arora](https://github.com/geekyspartan)
+[Renu Rani](https://github.com/techiepanda)
